@@ -364,32 +364,32 @@ nav ul li a:hover::after{
     width:90%;
 }
 .skillscol:nth-child(1) .skills-content .progress:nth-child(2) .bar span{
-    width:90%;
-}
-.skillscol:nth-child(1) .skills-content .progress:nth-child(3) .bar span{
     width:80%;
 }
-.skillscol:nth-child(1) .skills-content .progress:nth-child(4) .bar span{
+.skillscol:nth-child(1) .skills-content .progress:nth-child(3) .bar span{
     width:90%;
 }
-.skillscol:nth-child(1) .skills-content .progress:nth-child(5) .bar span{
+.skillscol:nth-child(1) .skills-content .progress:nth-child(4) .bar span{
     width:75%;
+}
+.skillscol:nth-child(1) .skills-content .progress:nth-child(5) .bar span{
+    width:70%;
 }
 
 .skillscol:nth-child(2) .skills-content .progress:nth-child(1) .bar span{
-    width:80%;
-}
-.skillscol:nth-child(2) .skills-content .progress:nth-child(2) .bar span{
-    width:85%;
-}
-.skillscol:nth-child(2) .skills-content .progress:nth-child(3) .bar span{
     width:90%;
 }
+.skillscol:nth-child(2) .skills-content .progress:nth-child(2) .bar span{
+    width:90%;
+}
+.skillscol:nth-child(2) .skills-content .progress:nth-child(3) .bar span{
+    width:85%;
+}
 .skillscol:nth-child(2) .skills-content .progress:nth-child(4) .bar span{
-    width:65%;
+    width:75%;
 }
 .skillscol:nth-child(2) .skills-content .progress:nth-child(5) .bar span{
-    width:60%;
+    width:70%;
 }
 
 /* -----------contact----------- */
